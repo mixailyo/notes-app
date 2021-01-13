@@ -1,3 +1,5 @@
+Ознакомиться с приложением можно по ссылке - http://notes-app.mzzzz.ru/
+
 # vue-cli
 
 ## Project setup
